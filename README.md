@@ -1,2 +1,2 @@
-# Registration-Form-using-JSP---Servlet---JDBC---MySQL
+# Registration-Form-using-JSP-Servlet-JDBC-MySQL
 
